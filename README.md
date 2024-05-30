@@ -8,7 +8,7 @@ Para clonar el repositorio y configurar el entorno de desarrollo, sigue estos pa
 
 1. Clonar el repositorio:
     ```bash
-    git clone https://github.com/empresa/nombre-repositorio.git
+    [git clone https://github.com/empresa/nombre-repositorio.git](https://github.com/ProgresoTec/Progreso-Tec.git)
     ```
 2. Navegar al directorio del repositorio:
     ```bash
